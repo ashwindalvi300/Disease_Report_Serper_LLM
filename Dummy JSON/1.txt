@@ -1,0 +1,27 @@
+{
+  "Report Date": "2025-12-09",
+  "Field Name": "West Field D4",
+  "Grower Name": "Hannah Cooper",
+  "Consultant Name": "Dr. Liam Turner",
+  "Area": "60 Acres",
+  "Crop Type": "Corn",
+  "Growth Stage": "R1",
+  "Irrigation Method": "Sprinkler",
+  "Soil Condition": "Wet",
+  "Temp": "24 °C",
+  "Rainfall": "12 mm",
+  "Humidity": "80%",
+  "Windspeed": "6 km/h",
+  "Diseases": [
+    {
+      "Disease": "Gray Leaf Spot",
+      "Severity": 0.4
+    },
+    {
+      "Disease": "Southern Rust",
+      "Severity": 0.6
+    }
+  ],
+  "Scouting Comments": "Humidity causing rapid disease development. Ears forming uniformly.",
+  "Consultant Notes": "High urgency for fungicide. Reduce irrigation to lower canopy moisture."
+}
