@@ -1,0 +1,27 @@
+{
+  "Report Date": "2025-12-10",
+  "Field Name": "East Block C2",
+  "Grower Name": "John Miller",
+  "Consultant Name": "Emily Ross",
+  "Area": "55 Acres",
+  "Crop Type": "Corn",
+  "Growth Stage": "V10",
+  "Irrigation Method": "Center Pivot",
+  "Soil Condition": "Moist",
+  "Temp": "28 °C",
+  "Rainfall": "4 mm",
+  "Humidity": "62%",
+  "Windspeed": "10 km/h",
+  "Diseases": [
+    {
+      "Disease": "Northern Corn Leaf Blight",
+      "Severity": 0.5
+    },
+    {
+      "Disease": "Common Rust",
+      "Severity": 0.3
+    }
+  ],
+  "Scouting Comments": "Early lesions visible on mid-canopy. Pest presence low. Tasseling expected soon.",
+  "Consultant Notes": "Recommend fungicide application if humidity persists. Monitor leaf wetness duration."
+}

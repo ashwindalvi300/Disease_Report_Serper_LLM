@@ -1,0 +1,27 @@
+{
+  "Report Date": "2025-12-09",
+  "Field Name": "North Field 3A",
+  "Grower Name": "Greg Williams.",
+  "Consultant Name": "Dr. Sarah Chen",
+  "Area": "40 Acres",
+  "Crop Type": "Soyabean",
+  "Growth Stage": "Harvest",
+  "Irrigation Method": "Drip Irrigation",
+  "Soil Condition": "Cracked",
+  "Temp": "25.5 °C",
+  "Rainfall": "0 mm",
+  "Humidity": "55%",
+  "Windspeed": "12 km/h",
+  "Diseases": [
+    {
+      "Disease": "Bacterial Blight",
+      "Severity": 0.7
+    },
+    {
+      "Disease": "Frogeye",
+      "Severity": 0.9
+    }
+  ],
+  "Scouting Comments": "Observed initial lesions of NCLB primarily in lower canopy. Insect pressure is low. Uniform growth across the field. Needs nitrogen side-dress soon.",
+  "Consultant Notes": "Recommend fungicide application (e.g., Azoxystrobin) within the next 7 days to manage NCLB spread. Advise grower to schedule N side-dress for next week."
+}

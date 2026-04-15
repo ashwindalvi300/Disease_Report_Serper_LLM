@@ -1,0 +1,27 @@
+{
+  "Report Date": "2025-12-07",
+  "Field Name": "Golden Plains W3",
+  "Grower Name": "Oliver Hayes",
+  "Consultant Name": "Dr. Megan Park",
+  "Area": "75 Acres",
+  "Crop Type": "Wheat",
+  "Growth Stage": "Booting",
+  "Irrigation Method": "Flood Irrigation",
+  "Soil Condition": "Well Drained",
+  "Temp": "19 °C",
+  "Rainfall": "6 mm",
+  "Humidity": "70%",
+  "Windspeed": "14 km/h",
+  "Diseases": [
+    {
+      "Disease": "Stripe Rust",
+      "Severity": 0.7
+    },
+    {
+      "Disease": "Powdery Mildew",
+      "Severity": 0.4
+    }
+  ],
+  "Scouting Comments": "High humidity accelerating rust spread. No pest activity detected.",
+  "Consultant Notes": "Urgent fungicide spray recommended within 72 hours. Continue scouting twice per week."
+}

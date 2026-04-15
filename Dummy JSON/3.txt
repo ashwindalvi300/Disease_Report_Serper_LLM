@@ -1,0 +1,27 @@
+{
+  "Report Date": "2025-12-08",
+  "Field Name": "South Ridge A1",
+  "Grower Name": "Maria Thompson",
+  "Consultant Name": "Dr. Alan Graves",
+  "Area": "32 Acres",
+  "Crop Type": "Cotton",
+  "Growth Stage": "Flowering",
+  "Irrigation Method": "Drip Irrigation",
+  "Soil Condition": "Dry Cracked",
+  "Temp": "31 °C",
+  "Rainfall": "0 mm",
+  "Humidity": "48%",
+  "Windspeed": "8 km/h",
+  "Diseases": [
+    {
+      "Disease": "Bacterial Blight",
+      "Severity": 0.4
+    },
+    {
+      "Disease": "Verticillium Wilt",
+      "Severity": 0.2
+    }
+  ],
+  "Scouting Comments": "Lower leaves showing minor chlorosis. Boll formation beginning.",
+  "Consultant Notes": "Need irrigation within 48 hours. Consider preventative fungicide if symptoms increase."
+}
