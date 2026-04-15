@@ -1,0 +1,75 @@
+
+
+**===== CROP TYPE : CORN =====**
+
+**===== DISEASE : GRAY LEAF SPOT =====**
+
+**Common Causes**
+- Caused by the fungus Cercospora zeae-maydis
+- Favored by warm temperatures (77-86°F or 25-30°C) and high humidity (>90% for 12+ hours)
+- Spread by wind and splashing water
+- Survives in corn residue, more severe in corn following corn
+- Infection typically occurs in June, with rapid spread in late July and August
+
+**Organic Treatments**
+- Crop rotation with non-corn crops to reduce fungus survival
+- Conventional tillage to reduce survival of the fungus
+- Removing corn residue to minimize inoculum
+- Planting resistant corn hybrids
+
+**Chemical Control Methods**
+- Foliar fungicides labeled for gray leaf spot
+- Fungicide applications between VT (tasseling) and R2 stages if economically warranted
+- Scouting and early application of fungicides in high-risk fields
+
+**Future Prevention**
+- Use of resistant corn hybrids
+- Crop rotation to reduce disease pressure
+- Tillage to promote decomposition of corn debris
+- Scouting fields regularly, especially during high-risk periods
+- Reducing irrigation to lower canopy moisture
+
+**Remedies**
+- Early detection and management to prevent severe yield loss
+- Monitoring environmental conditions favorable for disease development
+- Consulting with agricultural experts for tailored management strategies
+
+**Additional Insights**
+- Gray leaf spot can be confused with other foliar diseases such as northern corn leaf blight and southern rust
+- High humidity and warm conditions are critical for disease development
+- The disease reduces photosynthetic surface area, leading to yield loss and potential stalk lodging
+- Fields with a history of gray leaf spot should be managed with increased vigilance
+
+**===== DISEASE : SOUTHERN RUST =====**
+
+**Common Causes**
+- Caused by the fungus Puccinia polysora.
+- Spread by wind-blown spores from tropical regions.
+- Favorable conditions include high humidity (80% or more), temperatures between 77-88°F (25-31°C), and at least 6 hours of leaf wetness.
+- Young leaves are more susceptible to infection.
+
+**Organic Treatments**
+- Planting resistant corn varieties, especially for late-planted corn.
+- Scouting fields early and frequently to monitor disease progression.
+- Reducing irrigation to lower canopy moisture and leaf wetness.
+
+**Chemical Control Methods**
+- Applying fungicides between the silking (R1) and milk (R3) stages for maximum effectiveness.
+- Using fungicides with multiple modes of action for better control.
+- Considering a second fungicide application if disease pressure is severe and the crop is still in the reproductive stages.
+
+**Future Prevention**
+- Selecting corn products with genetic resistance to southern rust.
+- Monitoring weather conditions and disease maps to predict and prepare for southern rust outbreaks.
+- Implementing early and frequent scouting to detect and manage the disease before it spreads.
+
+**Remedies**
+- Applying fungicides to protect uninfected leaf tissue and reduce the spread of the disease.
+- Reducing irrigation to minimize leaf wetness and slow disease development.
+- Removing infected plant material to prevent further spread.
+
+**Additional Insights**
+- Southern rust can reduce photosynthesis, leading to premature plant drying, reduced kernel weight, and lowered yield potential.
+- Yield losses as high as 45 percent have been reported with severe infections.
+- Southern rust does not overwinter in most U.S. locations and must recolonize every year via wind-blown spores.
+- The disease is more problematic in the southern United States due to more favorable conditions.
